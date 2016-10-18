@@ -79,5 +79,5 @@ More info:- [Muximux][muximuxurl]
 
 ## Versions
 
-+ **14-10-16:** Add version layer information.
++ **14.10.16:** Add version layer information.
 + **29.09.16:** Initial release.
